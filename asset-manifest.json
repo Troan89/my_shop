@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/my_shop/static/css/main.09ede874.css",
+    "main.js": "/my_shop/static/js/main.834895b1.js",
+    "static/js/453.afe45559.chunk.js": "/my_shop/static/js/453.afe45559.chunk.js",
+    "static/media/shorts5.jpg": "/my_shop/static/media/shorts5.fd170feb122a2ddbe9e0.jpg",
+    "static/media/shorts2.jpg": "/my_shop/static/media/shorts2.4642268f4dcec4e87466.jpg",
+    "static/media/shorts3.jpg": "/my_shop/static/media/shorts3.62a6ac001c17c28618c5.jpg",
+    "static/media/shorts4.jpg": "/my_shop/static/media/shorts4.306747ed52ac6ab3a90b.jpg",
+    "static/media/shorts6.jpg": "/my_shop/static/media/shorts6.044f57172f4ced564c7d.jpg",
+    "static/media/shorts1.jpg": "/my_shop/static/media/shorts1.f3f21974cb8d7d890751.jpg",
+    "static/media/logo.jpg": "/my_shop/static/media/logo.7512fddf496046573c27.jpg",
+    "index.html": "/my_shop/index.html",
+    "static/media/arrowBack.svg": "/my_shop/static/media/arrowBack.f49f0b20f2c5e1a7ebe6cdb042456c60.svg",
+    "main.09ede874.css.map": "/my_shop/static/css/main.09ede874.css.map",
+    "main.834895b1.js.map": "/my_shop/static/js/main.834895b1.js.map",
+    "453.afe45559.chunk.js.map": "/my_shop/static/js/453.afe45559.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09ede874.css",
+    "static/js/main.834895b1.js"
+  ]
+}
