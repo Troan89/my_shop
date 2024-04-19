@@ -1,0 +1,8 @@
+.basket {
+    display: flex;
+}
+
+.basket .price {
+    text-align: center;
+    margin: auto
+}

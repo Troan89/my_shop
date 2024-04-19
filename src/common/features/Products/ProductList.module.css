@@ -1,0 +1,11 @@
+.productsList {
+    margin-bottom: 100px;
+}
+
+.products {
+    display: flex;
+    column-gap: 30px;
+    row-gap: 30px;
+    flex-wrap: wrap;
+}
+
