@@ -7,7 +7,7 @@ export const Header = () => {
 
     return (
         <div className={s.header}>
-            <NavLink to={'/'}><img src={logo} alt={''}/></NavLink>
+            <NavLink to={'/my_shop'}><img src={logo} alt={''}/></NavLink>
             <Basket />
         </div>
     )

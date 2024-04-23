@@ -3,6 +3,7 @@ import {useAppDispatch, useAppSelector} from "../../../store/store";
 import Product from "./product/Product";
 import s from './ProductList.module.css'
 import {setProductsOutOfLocalStorage} from "../../../utils/setProductsOutofLocalStorage";
+import {Router} from "react-router-dom";
 
 const ProductList = () => {
 

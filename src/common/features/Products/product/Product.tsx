@@ -1,6 +1,6 @@
 import React from 'react';
 import s from './Product.module.css'
-import {useNavigate} from "react-router-dom";
+import {Link, useNavigate} from "react-router-dom";
 import {Button} from "@material-ui/core";
 
 export type ProductType = {

@@ -60,7 +60,7 @@ const ProductPage = () => {
     return (
         <div>
             <div>
-                <Link to={"/"}>
+                <Link to={"/my_shop"}>
                     <img src={back} alt=""/>
                     Back
                 </Link>

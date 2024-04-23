@@ -1,4 +1,4 @@
-import {createBrowserRouter} from "react-router-dom";
+import {createBrowserRouter, RouterProvider} from "react-router-dom";
 import ProductPage from "../features/Products/product/ProductPage";
 import ProductList from "../features/Products/ProductList";
 import BasketPage from "../features/Basket/BasketPage";
@@ -16,7 +16,7 @@ export const router = createBrowserRouter([
                 ),
             },
             {
-                path: "/",
+                path: "/my_shop",
                 element: (
                     <ProductList />
                 ),
@@ -37,3 +37,7 @@ export const router = createBrowserRouter([
     },
 
 ])
+
+export const Router = () => {
+    return <RouterProvider router={router} />
+}
