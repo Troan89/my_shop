@@ -7,7 +7,10 @@ export const Header = () => {
 
     return (
         <div className={s.header}>
-            <NavLink to={'/my_shop'}><img src={logo} alt={''}/></NavLink>
+            <div className={s.logo}>
+                <NavLink to={'/my_shop'}><img src={logo} alt={''}/></NavLink>
+                Sport Short
+            </div>
             <Basket />
         </div>
     )
